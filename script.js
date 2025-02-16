@@ -21,7 +21,7 @@ const songsList = [
         name: "Fourth of July",
         artist: "Sufjan Stevens",
         src: "assets/4.mp3",
-        cover: "assets/3.jpg"
+        cover: "assets/4.jpg"
     },
     {
         name: "Home",
